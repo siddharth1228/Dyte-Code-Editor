@@ -1,3 +1,7 @@
+#Code Editor
+
+This project is a frontnd code editor which gives you three screens for HTML, CSS, JS code editor and reflect the changes directly in a frame below the scereen.
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
